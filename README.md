@@ -2,7 +2,7 @@
 # Contact Information
 <img align="right" width="100" height="150" src="https://github.com/tgalili/MyProfileImages/blob/main/Profile%20pic.jpeg?raw=true">
 
-> [Address]: "10134 Brandon Circle Orlando Florida 32836"
+> [Address](10134 Brandon Circle Orlando Florida 32836)
 > 
 > [LinkedIn](https://www.linkedin.com/in/Tamir-Galili)
 > 
