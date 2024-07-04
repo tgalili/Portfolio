@@ -2,7 +2,7 @@
 # Contact Information
 <img align="right" width="100" height="150" src="https://github.com/tgalili/MyProfileImages/blob/main/Profile%20pic.jpeg?raw=true">
 
-> 
+> [Address]: "10134 Brandon Circle Orlando Florida 32836"
 > 
 > [LinkedIn](https://www.linkedin.com/in/Tamir-Galili)
 > 
@@ -12,8 +12,7 @@
 
 # Additional Resources
 > [Resume](https://github.com/tgalili/Portfolio/blob/main/Tamir%20Galili%20Resume%207_1_2024.pdf)
->
-> [Programming Topics](https://github.com/Sawmonabo/Technical-Interview-Topics/blob/main/README.md)
+
 
 # Projects:
 
@@ -49,28 +48,6 @@
   <img width="800" height="400" src="https://user-images.githubusercontent.com/77422313/165886362-1cba06c9-c029-4a54-b46a-970e33c45325.jpeg">
 </p>
 
-
-
-<br />
-
-### [Java Web Scraping - GoogleStock Analysis](https://github.com/Sawmonabo/GoogleFinance_Java_Scraping)
-*  Taking user-input from the terminal to search a ticker name and receive information on the company and its finances. 
-*  Used Object-Oriented principles to create and use methods to perform stock analysis.
-*  HTML parsing to find correct tags for each specific variable.
-
-
-<br />
-
-<p align="center">
-  <img width="500" height="400" src="https://user-images.githubusercontent.com/77422313/162590040-714b40dc-a223-4aec-82ef-e1b70642a282.jpeg">
-</p>
-
-<br />
-
-### [Python Web scraping - JobFinder](https://github.com/Sawmonabo/WebScraper/blob/main/webScraper.py)
-*  Perform web scraping with Python using the Beautiful Soup library.
-*  Looking for python related job listings on [TimesJobs](https://www.timesjobs.com/) website.
-*  Includes filter to exclude a specific skill.
 
 <br />
 
