@@ -3,13 +3,11 @@
 <img align="right" width="100" height="150" src="https://github.com/tgalili/MyProfileImages/blob/main/Profile%20pic.jpeg?raw=true">
 
 > 
-> [LinkedIn](https://www.linkedin.com/in/sawmonabo)
+> [LinkedIn](https://www.linkedin.com/in/Tamir-Galili)
 > 
-> [Github](https://github.com/Sawmonabo)
+> [Github](https://github.com/tgalili)
 > 
-> [Twitter](https://twitter.com/Sawmonabo)
-> 
-> Email: abossedghs@gmail.com
+> Email: Tamir.Galili16@gmail.com
 
 # Additional Resources
 > [Resume](https://github.com/Sawmonabo/SawmonAbo_Portfolio/files/8636378/Resume.pdf)
