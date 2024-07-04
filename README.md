@@ -1,6 +1,6 @@
 
 # Contact Information
-<img align="right" width="150" height="150" src="Profile pic.jpeg">
+<img align="right" width="150" height="150" src="https://github.com/tgalili/MyProfileImages/blob/main/Profile%20pic.jpeg?raw=true">
 
 > 
 > [LinkedIn](https://www.linkedin.com/in/sawmonabo)
