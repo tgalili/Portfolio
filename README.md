@@ -2,14 +2,14 @@
 # Contact Information
 <img align="right" width="100" height="150" src="https://github.com/tgalili/MyProfileImages/blob/main/Profile%20pic.jpeg?raw=true">
 
-> [Address](10134 Brandon Circle Orlando Florida 32836)
-> 
 > [LinkedIn](https://www.linkedin.com/in/Tamir-Galili)
 > 
 > [Github](https://github.com/tgalili)
 > 
 > Email: Tamir.Galili16@gmail.com
-
+> 
+> Address: 10134 Brandon Circle Orlando Florida 32836
+>
 # Additional Resources
 > [Resume](https://github.com/tgalili/Portfolio/blob/main/Tamir%20Galili%20Resume%207_1_2024.pdf)
 
