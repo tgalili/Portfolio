@@ -17,12 +17,12 @@
 # Projects:
 
 ### [Python House Price Prediction](https://github.com/Sawmonabo/HousePricePrediction)
-* Purpose of this project is to research and apply the various machine learning regression algorithms to undertake different models.
-* Identify a hedonic property price model that can be used to predict residential property prices in Orlando as a function of the physical and locational attributes of the properties. 
-* The data is first preprocessed and is then analyzed to summarize the main characteristics of the variables such as their correlation or any observable patterns.
-* Engineered features from given data variables (Including reverse engineering x_coord and y_coord to actual measures of use, using geopy.geocoder and stateplane modules)
-* Optimized Linear, Lasso, Ridge, and Extreme Gradient Boosting using RandomSearchCV to reach the best model.
-* The best model will be identified by the measure of MSE (mean squared error) and its accuracy to the validation set.
+* The purpose of this project is to research and apply various machine learning regression algorithms to predict fantasy football points for the 2024 NFL season. The models are built using historical player statistics and team dynamics.
+* The data, sourced from a SQLite database, is preprocessed to handle missing values and is then analyzed to summarize the main characteristics of the variables. Exploratory Data Analysis (EDA) includes visualizations to identify patterns and relationships between different features, such as player age, team performance, and position.
+* Engineered features from the data include a 3-game rolling average of fantasy points, binary indicators for exceptional performance, and normalized team performance metrics. These features are used to enhance the predictive power of the models.
+* The models explored in this project include Linear Regression and Random Forest Regressor. The data is split into training and testing sets, and the features are scaled for better model performance. Both models are trained and evaluated using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R²) to identify the best performing model.
+* Model performance is visualized through actual vs predicted points plots and residuals distribution plots. Feature importance for the Random Forest model is also analyzed.
+* The final models and scaler are saved using pickle for future use. The best model is identified based on its accuracy and performance metrics on the validation set.
 
 <br />
 
