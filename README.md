@@ -16,7 +16,7 @@
 
 # Projects:
 
-### [Python House Price Prediction](https://github.com/Sawmonabo/HousePricePrediction)
+### [Python Fantasy Football Prediction](https://github.com/tgalili/Fantasy_Football_Points_Prediction)
 * The purpose of this project is to research and apply various machine learning regression algorithms to predict fantasy football points for the 2024 NFL season. The models are built using historical player statistics and team dynamics.
 * The data, sourced from a SQLite database, is preprocessed to handle missing values and is then analyzed to summarize the main characteristics of the variables. Exploratory Data Analysis (EDA) includes visualizations to identify patterns and relationships between different features, such as player age, team performance, and position.
 * Engineered features from the data include a 3-game rolling average of fantasy points, binary indicators for exceptional performance, and normalized team performance metrics. These features are used to enhance the predictive power of the models.
