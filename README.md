@@ -27,7 +27,7 @@
 <br />
 
 <p align="center">
-  <img width="500" height="350" src="https://user-images.githubusercontent.com/77422313/162089911-9a4bd427-f625-41de-a376-6a99b23884af.png">
+  <img width="500" height="350" src="https://github.com/tgalili/Fantasy_Football_Points_Prediction/blob/main/images/Linear%20Regression.png">
 </p>
 
 <br />
