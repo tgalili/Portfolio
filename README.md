@@ -31,26 +31,3 @@
 </p>
 
 <br />
-
-### [Yahoo StockData API - REST API Using Java/SpringBoot/Maven/MonogDB](https://github.com/Sawmonabo/StockData)
-*  The application is able to fetch stock data from the YahooFinance API on any ticker provided by user input, as well as, storing data to a MongoDB database. 
-*  CRUD operations to and from the MongoDB database.
-*  Spring Boot and Maven are used to manage dependencies and jumpstart the project.
-*  Integration of Service/Model/Application packages to provide clarity for class usage.
-*  Java OOP and encapsulation methods used.
-*  Usage of a MultiValueMap hashSet.
-
-<!-- ![68747470733a2f2f696d672e796f75747562652e636f6d2f76692f4e524a43395552727a71732f6d617872657364656661756c742e6a7067](https://user-images.githubusercontent.com/77422313/165886362-1cba06c9-c029-4a54-b46a-970e33c45325.jpeg)
- -->
-<br />
-
-<p align="center">
-  <img width="800" height="400" src="https://user-images.githubusercontent.com/77422313/165886362-1cba06c9-c029-4a54-b46a-970e33c45325.jpeg">
-</p>
-
-
-<br />
-
-<br />
-
-### ... More Projects Coming Soon To A GitHub Near You!
